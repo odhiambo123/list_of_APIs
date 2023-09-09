@@ -42,15 +42,6 @@
 
 <br />
 
-<div align="center">
-    
-</div>
-
-<br />
-
----
-
-<br />
 
 ## Index
 
