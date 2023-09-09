@@ -29,25 +29,11 @@
 <br />
 
 <div align="center">
-    <sub>The Project</sub>
-    <br />
-    <a href="CONTRIBUTING.md">Contributing Guide</a> •
-    <a href="https://github.com/davemachado/public-api">API for this project</a> •
-    <a href="https://github.com/public-apis/public-apis/issues">Issues</a> •
-    <a href="https://github.com/public-apis/public-apis/pulls">Pull Requests</a> •
-    <a href="LICENSE">License</a>
-    
-
-<br />
+    <sub></sub>
+    <br /><br />
 
 <div align="center">
-    <sub>Alternative sites for the project (unofficials)</sub>
-    <br />
-    <a href="https://free-apis.github.io">Free APIs</a> •
-    <a href="https://devresourc.es/tools-and-utilities/public-apis">Dev Resources</a> •
-    <a href="https://www.public-apis.ml">Public APIs Site</a> •
-    <a href="https://apihouse.vercel.app">Apihouse</a> •
-    <a href="https://collective-api.vercel.app/">Collective APIs</a> 
+    
 </div>
 
 <br />
@@ -57,34 +43,7 @@
 <br />
 
 <div align="center">
-    <p>
-        <a href="https://opencollective.com/public-apis">[ <strong>Become a sponsor</strong> and support Public APIs and their maintainers ]</a>
-    </p>
-    <p><strong>Special thanks to:</strong></p>
-    <p>
-        <a href="https://apilayer.com#gh-light-mode-only">
-            <div>
-                <img src=".github/cs1586-APILayerLogoUpdate2022-LJ_v2-HighRes.png" width="250" alt="APILayer Logo" />
-            </div>
-            <div>
-                <p><strong>The fastest way to integrate APIs into any product</strong></p>
-            </div>
-            <div>
-                <sup>Explore, discover and consume public APIs as simpler programmable building blocks all on one platform for a 10x developer experience.</sup>
-            </div>
-        </a>
-        <a href="https://apilayer.com#gh-dark-mode-only">
-            <div>
-                <img src="https://raw.githubusercontent.com/public-apis/public-apis/master/.github/assets/sponsors_logo/m3o_logo_white.png" width="250" alt="APILayer Logo" />
-            </div>
-            <div>
-                <p><strong>The fastest way to integrate APIs into any product</strong></p>
-            </div>
-            <div>
-                <sup>Explore, discover and consume public APIs as simpler programmable building blocks all on one platform for a 10x developer experience.</sup>
-            </div>
-        </a>
-    </p>
+    
 </div>
 
 <br />
